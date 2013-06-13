@@ -6,12 +6,14 @@ classpath.txt
 version.properties
 .project
 .classpath
+.settings/
 lib/*
 build/*
 generated-files/*
 generated-code/*
 *.swp
 *.swo
+*~
 
 /target
 /generated-files
@@ -28,3 +30,4 @@ target
 .lib
 atlassian-ide-plugin.xml
 .DS_Store
+
